@@ -2,5 +2,5 @@
 HTML
 CSS
 PYTHON
-FLASK Web Framework
+FLASK (Web Framework)
 -------------------------------------------------------------------
